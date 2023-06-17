@@ -9,6 +9,6 @@ public class functions {
         Scanner sc=new Scanner (System.in);
         String name=sc.next();
         
-        printMyName(name);
+        printMyName(name+"this is my name'");
     }
 }
